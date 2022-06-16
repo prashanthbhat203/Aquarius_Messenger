@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65710377435",
+    "project_id": "aquarius-messenger",
+    "storage_bucket": "aquarius-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65710377435:android:645b016eb498f1ece67ffe",
+        "android_client_info": {
+          "package_name": "com.example.aquariusmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65710377435-ust6i4nvmfv0590dhttf7gu6qbmd2q6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquariusmessenger",
+            "certificate_hash": "cdbd7527c0234a655f944d375b0e3f498110691e"
+          }
+        },
+        {
+          "client_id": "65710377435-75vlk0h555smkb3fjhtsrepqqnfo02p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMw_GJKTEjyBVhsQ3zx0kF3nrsr_ZyHTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65710377435-75vlk0h555smkb3fjhtsrepqqnfo02p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

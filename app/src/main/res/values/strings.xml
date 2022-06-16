@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aquarius Messenger</string>
+    <string name="app_name_half">Aquarius</string>
+    <string name="logo">logo</string>
+    <string name="register_text">Say no more to passwords just enter your mobile number and enjoy the app!</string>
+    <string name="mobile_number">IN   +91</string>
+    <string name="enter_your_mobile_number">Mobile number</string>
+    <string name="otp_text">We have sent the OTP for the registered mobile number. OTP will be automatically detected!</string>
+    <string name="profile_image">profile_image</string>
+    <string name="add_image">Add your profile photo</string>
+    <string name="enter_your_name">Enter your name…</string>
+    <string name="username_text">This is your username, this name will be displayed to others who want chat with you!</string>
+    <string name="all_done">all-done</string>
+    <string name="you_re_all_set_to_go_hurray">You are all set to go. Hurray!</string>
+    <string name="otp_code">Enter 6-digit code</string>
+    <string name="todo">TODO</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="enter_the_message">Enter the message…</string>
+    <string name="seen">Seen</string>
+    <string name="_10_10">10:10</string>
+    <string name="please_wait_while_we_are_setting_you_re_profile">Please wait..While we are setting you\'re profile</string>
+</resources>
